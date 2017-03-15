@@ -1,0 +1,22 @@
+{
+  "name": "peterburrell.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "http-server -o"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peterburrell/peterburrell.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/peterburrell/peterburrell.github.io/issues"
+  },
+  "homepage": "https://github.com/peterburrell/peterburrell.github.io#readme",
+  "devDependencies": {
+    "http-server": "^0.9.0"
+  }
+}
