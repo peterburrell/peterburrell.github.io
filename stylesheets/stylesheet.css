@@ -6,31 +6,39 @@ body {
   background-size: cover;
 }
 body {
-  padding: 20px;
   font: 18px/1 Roboto, Arial, sans-serif;
   background-color: #556270;
   color: #ffffff;      
+  padding: 20px;
+  padding-bottom: 6rem;
 }
 h1 {
-  font-size: 60px;
+  font-size: 12vw;
+  font-weight: bold;
   margin: 0;
   text-transform: uppercase;
-  color: #ffffff;
+  color: #ffffff88;
 }
 h2 {
-  font-size: 34px;
-  color: gold;
+  font-size: 6vw;
+  color: #ffffff55;
   margin-top: 10px;
 }
 
+.footer {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  padding: 2rem;
+  color: #ffffff88;
+}
+
 a { 
-  color: gold; 
+  color: #ffffffaa;
   text-decoration: none;
-  border: 2px solid gold;
-  padding: 10px 20px;
-  background-color: transparent;
+  transition: 0.3s;
 }
 a:hover { 
-  background-color: gold;
-  color: white;
+  color: #ffffffff;
 }
