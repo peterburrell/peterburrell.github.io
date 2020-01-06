@@ -14,13 +14,14 @@ body {
 }
 h1 {
   font-size: 12vw;
-  font-weight: bold;
+  font-weight: 700;
   margin: 0;
   text-transform: uppercase;
   color: #ffffff88;
 }
 h2 {
   font-size: 6vw;
+  font-weight: 700;
   color: #ffffff55;
   margin-top: 10px;
 }
